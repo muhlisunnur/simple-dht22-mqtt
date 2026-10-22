@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // --- Konfigurasi Wi-Fi & MQTT ---
-const char* ssid         = "TECNO CAMON 40 Pro 5G";     // Ganti dengan SSID WiFi Anda
-const char* password     = "santrifiwa"; // Ganti dengan Password WiFi Anda
+const char* ssid         = "";     // Ganti dengan SSID WiFi Anda
+const char* password     = ""; // Ganti dengan Password WiFi Anda
 const char* mqtt_server  = "test.mosquitto.org"; // Contoh: "192.168.1.50"
 const int mqtt_port      = 1883;
 
